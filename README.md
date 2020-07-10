@@ -188,6 +188,7 @@ Phone: +33 6 22 43 30 11
 | BSQ                   | Find the biggest square !                         | [Github](https://github.com/Encorpluptit/CPE_BSQ_2018)                | C / Criterion                                             | No lib C / fastest possible                                       |
 | GetNextLine           | Recode GetLine                                    | [Github](https://github.com/Encorpluptit/CPE_getnextline_2018)        | C / Criterion                                             | No lib C / Cleanest and smallest code possible                    |
 | MatchStick            | Nim Game                                          | [Github](https://github.com/Encorpluptit/CPE_matchstick_2018)         | C / Criterion                                             | No lib C / Better IA possible                                     |
+| Navy                  | Battle Ship Game                                  | [Github](https://github.com/Encorpluptit/PSU_navy_2018)               | C / Criterion / Linux Signals                             | No lib C / Cleanest code possible and no signal loss              |
 
 ### Personal
 | Project               | Description                                       | Link                                                                  | Languages / Technologies used                             | Remark                                                            |
