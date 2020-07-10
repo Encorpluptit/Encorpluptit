@@ -187,7 +187,7 @@ Phone: +33 6 22 43 30 11
 |:---------------------:|:-------------------------------------------------:|:---------------------------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|
 | BSQ                   | Find the biggest square !                         | [Github](https://github.com/Encorpluptit/CPE_BSQ_2018)                | C / Criterion                                         | No lib C / fastest possible                           |
 | GetNextLine           | Recode GetLine                                    | [Github](https://github.com/Encorpluptit/CPE_getnextline_2018)        | C / Criterion                                         | No lib C / Cleanest and smallest code possible        |
-| MatchStick            | Nim Game                                          | [Github](https://github.com/Encorpluptit/CPE_getnextline_2018)        | C / Criterion                                         | No lib C / Better IA possible                         |
+| MatchStick            | Nim Game                                          | [Github](https://github.com/Encorpluptit/CPE_matchstick_2018)         | C / Criterion                                         | No lib C / Better IA possible                         |
 
 ### Personal
 | Project               | Description                                       | Link                                                                  | Languages / Technologies used                         | Remark                                                |
