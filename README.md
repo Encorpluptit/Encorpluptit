@@ -183,17 +183,17 @@ Phone: +33 6 22 43 30 11
 ## 1e Année - 1rst Year
 
 ### Epitech
-| Project               | Description                                       | Link                                                                  | Languages / Technologies used                         | Remark                                                |
-|:---------------------:|:-------------------------------------------------:|:---------------------------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|
-| BSQ                   | Find the biggest square !                         | [Github](https://github.com/Encorpluptit/CPE_BSQ_2018)                | C / Criterion                                         | No lib C / fastest possible                           |
-| GetNextLine           | Recode GetLine                                    | [Github](https://github.com/Encorpluptit/CPE_getnextline_2018)        | C / Criterion                                         | No lib C / Cleanest and smallest code possible        |
-| MatchStick            | Nim Game                                          | [Github](https://github.com/Encorpluptit/CPE_matchstick_2018)         | C / Criterion                                         | No lib C / Better IA possible                         |
+| Project               | Description                                       | Link                                                                  | Languages / Technologies used                             | Remark                                                            |
+|:---------------------:|:-------------------------------------------------:|:---------------------------------------------------------------------:|:---------------------------------------------------------:|:-----------------------------------------------------------------:|
+| BSQ                   | Find the biggest square !                         | [Github](https://github.com/Encorpluptit/CPE_BSQ_2018)                | C / Criterion                                             | No lib C / fastest possible                                       |
+| GetNextLine           | Recode GetLine                                    | [Github](https://github.com/Encorpluptit/CPE_getnextline_2018)        | C / Criterion                                             | No lib C / Cleanest and smallest code possible                    |
+| MatchStick            | Nim Game                                          | [Github](https://github.com/Encorpluptit/CPE_matchstick_2018)         | C / Criterion                                             | No lib C / Better IA possible                                     |
 
 ### Personal
-| Project               | Description                                       | Link                                                                  | Languages / Technologies used                         | Remark                                                |
-|:---------------------:|:-------------------------------------------------:|:---------------------------------------------------------------------:|:-----------------------------------------------------:|:-----------------------------------------------------:|
-| Go_Minishell          | A simple shell in go                              | [Github](https://github.com/Encorpluptit/Minishell_1_Go)              | C / Criterion                                         | First steps in Go                                     |
-| Easley                | Web app MVP for fintech start-up                  | [Github](https://github.com/Encorpluptit/Easley)                      | C / Criterion                                         | First steps in Go                                     |
+| Project               | Description                                       | Link                                                                  | Languages / Technologies used                             | Remark                                                            |
+|:---------------------:|:-------------------------------------------------:|:---------------------------------------------------------------------:|:---------------------------------------------------------:|:-----------------------------------------------------------------:|
+| Go_Minishell          | A simple shell in go                              | [Github](https://github.com/Encorpluptit/Minishell_1_Go)              | C / Criterion                                             | First steps in Go                                                 |
+| Easley                | Web app MVP for fintech start-up                  | [Github](https://github.com/Encorpluptit/Easley)                      | Python / Django / PostGreSQL / CSS / Heroku               | 2 months Internship / Firsts Steps With all these technonlogies   |
 
 
 ## 2e Année - 2nd Year
