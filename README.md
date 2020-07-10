@@ -63,7 +63,7 @@
 #### Centres d'intérêts
 
 ---
-## Mes accomplissements.
+## Mes accomplissements
 
 ### Mes expériences professionelles
 
@@ -74,7 +74,7 @@ Depuis Mars 2020, Je suis Assistant Technique auprès des étudiants de 1ère et
 
 
 
-#### Mes réalisations en tant qu'astek
+#### Mes réalisations en tant qu'Astek
 
  * Présentation de technologies / langages / culture info lors de "Talk" (présentation de 1 heure) devant ma promotion ou les années précédentes.
  
@@ -95,7 +95,7 @@ Depuis Mars 2020, je suis membre résident de POC.
 >
 > L'association est reconnue par de nombreuses entreprises comme Sony ou Bouygues qui font régulièrement appel à cette dernière pour réaliser divers projets.
 
-#### Mes réalisations au sein de Poc
+#### Mes réalisations au sein de POC
 
  * Projet [CodeBase manager](#) un outil CLI en Go permettant la gestion de projet.
     * Gérer sa codebase
