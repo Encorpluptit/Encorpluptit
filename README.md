@@ -14,7 +14,7 @@
 
 ### Mon parcours
 
-* Je m'apelle Bernard Damien et je suis étudiant en 3e année à Epitech Paris.
+* Je m'apelle Bernard Damien, j'ai 27 ans et je suis étudiant en 3e année à Epitech Paris.
 
 * J'ai étudié les matières scientifiques en IUT, Faculté et école d'ingénieur avant de comprendre que ce l'enseignement dispensé (académique) ne me correspondait pas.
 
