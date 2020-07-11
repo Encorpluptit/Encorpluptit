@@ -98,7 +98,7 @@ Depuis Mars 2020, je suis membre résident de POC.
 #### Mes réalisations au sein de POC
 
  * Projet [CodeBase manager](#) un outil CLI en Go permettant la gestion de projet.
-    * Gérer sa codebase
+    * Gérer sa codebase.
     * Gérer son projet via Git.
     * Lancer des tests fonctionnels.
     * Créer et lancer des tests unitaires.
@@ -113,48 +113,15 @@ Depuis Mars 2020, je suis membre résident de POC.
 
 
 ### Compétences maîtrisées
+| Langages                              | DevOps                                | Web                                   | Others                                |
+|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
+| C                                     | Agile methods                         | JS/TS: Express                        | Toolchain(WIP)                        |
+| C++                                   | Docker / Docker-Compose               | Python: / Flask / Django              |                                       |
+| Go                                    | Kubernetes(WIP) / Ansible(WIP)        | Go: Mux(WIP) / Gin(WIP)               |                                       |
+| Haskell                               | CI / CD                               | Heroku / AWS(WIP) / Azure(WIP)        |                                       |
+| JS / TS                               | Github Action / GitLab                |                                       |                                       |
+| Rust(WIP)                             |                                       |                                       |                                       |
 
- * Langages
-    * C
-    * C++
-    * Python
-    * Go
-    * Haskell
-
-    (WIP / En cours)
-    * Rust
-    * 
-
- * Dev Ops
-    * Théorie (???)
-        * Méthodes agiles
-        * 
-
-    * Technologies / Outils
-        * Docker / Docker-compose
-        * Github Actions
-        
-        (WIP / En cours)
-        * Ansible
-        * Toolchain
-        * 
-
- * Web
-    * Technologies
-        * Django (ORM Python)
-        * Api en Go
-
-        (WIP / En cours)
-        * React native
-        *  
-
-    * Hébergement
-        * Heroku
-
-        (WIP / En cours)
-        * AWS
-        * Microsoft Azure
-    
 
 
 ## TLDR-Fr
