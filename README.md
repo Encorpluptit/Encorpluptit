@@ -71,8 +71,11 @@
 
 Depuis Mars 2020, Je suis Assistant Technique auprès des étudiants de 1ère et 2e année.
 
+#### Astek, qu'est-ce que c'est ?
 
-
+> À EPITECH, Les Asteks ont pour rôle d'aider les étudiants des années suivantes dans leurs projets et leur scolarité.
+> 
+> Tenants un rôle essentiel au sein de l'école, les Asteks occupent le poste d'éducateur pédagogique.
 
 #### Mes réalisations en tant qu'Astek
 
@@ -165,8 +168,18 @@ Phone: +33 6 22 43 30 11
 
 
 ## 2e Année - 2nd Year
+
 ### Epitech
+| Project               | Description                                       | Link                                                                  | Languages / Technologies used                             | Remark                                                            |
+|:---------------------:|:-------------------------------------------------:|:---------------------------------------------------------------------:|:---------------------------------------------------------:|:-----------------------------------------------------------------:|
+| Malloc                | Recode malloc C function.                         | [Github](https://github.com/Encorpluptit/PSU_2019_malloc)             | C                                                         | Buddy-alloc like algorithm.                                       |
+| MiniLibC              | Recode some C functions in ASM.                   | [Github](https://github.com/Encorpluptit/ASM_minilibc_2019)           | ASM / NASM / Criterion                                    | Optimised.                                                        |
+| BSQ                   | Find the biggest square !                         | [Github](https://github.com/Encorpluptit/CPE_BSQ_2018)                | C / Criterion                                             | No lib C / fastest possible                                       |
+
 ### Personal
+| Project               | Description                                       | Link                                                                  | Languages / Technologies used                             | Remark                                                            |
+|:---------------------:|:-------------------------------------------------:|:---------------------------------------------------------------------:|:---------------------------------------------------------:|:-----------------------------------------------------------------:|
+| Software              | Group project for POC software Pool               | [Github](https://github.com/Encorpluptit/POC_SoftwarePool2020_Project)| JS / Express / Postman /Sqlite3                           | First API in JS with firsts Github Actions (worked on back and CI)|
 
 
 ## 3e Année - 1rst Year
