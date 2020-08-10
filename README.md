@@ -45,7 +45,7 @@
   
   Je pense véritablement qu'en avançant au sein d'une équipe soudée et polyvalente, dans un esprit de convivialité et d'entraide, n'importe quel projet peut aboutir à un résultat impressionnant en surmontant n'importe qu'elle difficulté.
   
-  J'ai souvent été aidé par différentes personnes tout au long de mon cursus, et je suis toujours prêt à renvoyer l'ascenceur.
+  J'ai souvent été aidé par différentes personnes tout au long de mon cursus, et je suis toujours prêt à renvoyer l'ascenseur.
   
 
 #### le Développeur
@@ -74,7 +74,9 @@ Depuis Mars 2020, Je suis Assistant Technique auprès des étudiants de 1ère et
 #### Astek, qu'est-ce que c'est ?
 
 > À EPITECH, Les Asteks ont pour rôle d'aider les étudiants des années suivantes dans leurs projets et leur scolarité.
-> 
+>
+> Ils répondent à leurs questions concernant le code, la pédagogie et sur de la culture informatique.
+>
 > Tenants un rôle essentiel au sein de l'école, les Asteks occupent le poste d'éducateur pédagogique.
 
 #### Mes réalisations en tant qu'Astek
@@ -94,19 +96,19 @@ Depuis Mars 2020, je suis membre résident de POC.
 >
 > Elle donne à ses membres les outils pour réaliser de nombreux projets innovants sur divers secteurs tel que la sécurité informatique, le développement logiciel, la blockchain, la réalité virtuelle, le hardware, la santé, l'intelligence artificielle.
 >
-> Les projets sont gérés par les étudiants avec l'aide d'un responsable de pôle, ce qui nous permet d'acquerir beaucoup de compétences et d'autonomie lors de la réalisation de ces projets.
+> Les projets sont gérés par les étudiants avec l'aide d'un responsable de pôle, ce qui nous permet d'acquérir beaucoup de compétences et d'autonomie lors de la réalisation de ces projets.
 >
 > L'association est reconnue par de nombreuses entreprises comme Sony ou Bouygues qui font régulièrement appel à cette dernière pour réaliser divers projets.
 
 #### Mes réalisations au sein de POC
 
- * Projet [CodeBase manager](#) un outil CLI en Go permettant la gestion de projet.
+ * Projet [CodeBase manager](https://github.com/PoCFrance/CodeBaseManager) un outil CLI en Go permettant la gestion de projet.
     * Gérer sa codebase.
     * Gérer son projet via Git.
     * Lancer des tests fonctionnels.
     * Créer et lancer des tests unitaires.
 
- * Présentation de technologies lors de "Rumps" (présentation de 20 minutes) devant les membres de l'assocation.
+ * Présentation de technologies lors de "Rumps" (présentation de 20 minutes) devant les membres de l'association.
  
 <!-- TODO: compléter -->
  * Organisation et Animations de "Workshops" (Ateliers de 3 heures) sur des technologies non-enseignées à Epitech.
@@ -159,6 +161,7 @@ Phone: +33 6 22 43 30 11
 | GetNextLine           | Recode GetLine                                    | [Github](https://github.com/Encorpluptit/CPE_getnextline_2018)        | C / Criterion                                             | No lib C / Cleanest and smallest code possible                    |
 | MatchStick            | Nim Game                                          | [Github](https://github.com/Encorpluptit/CPE_matchstick_2018)         | C / Criterion                                             | No lib C / Better IA possible                                     |
 | Navy                  | Battle Ship Game                                  | [Github](https://github.com/Encorpluptit/PSU_navy_2018)               | C / Criterion / Linux Signals                             | No lib C / Cleanest code possible and no signal loss              |
+| Minishell_1           | Recode a small shell                              | [Github](https://github.com/Encorpluptit/PSU_minishell1_2018)         | C / Criterion / Linux Signals                             | No lib C / Cleanest code possible and no signal loss              |
 
 ### Personal
 | Project               | Description                                       | Link                                                                  | Languages / Technologies used                             | Remark                                                            |
@@ -173,8 +176,9 @@ Phone: +33 6 22 43 30 11
 | Project               | Description                                       | Link                                                                  | Languages / Technologies used                             | Remark                                                            |
 |:---------------------:|:-------------------------------------------------:|:---------------------------------------------------------------------:|:---------------------------------------------------------:|:-----------------------------------------------------------------:|
 | Malloc                | Recode malloc C function.                         | [Github](https://github.com/Encorpluptit/PSU_2019_malloc)             | C                                                         | Buddy-alloc like algorithm.                                       |
-| MiniLibC              | Recode some C functions in ASM.                   | [Github](https://github.com/Encorpluptit/ASM_minilibc_2019)           | ASM / NASM / Criterion                                    | Optimised.                                                        |
-| BSQ                   | Find the biggest square !                         | [Github](https://github.com/Encorpluptit/CPE_BSQ_2018)                | C / Criterion                                             | No lib C / fastest possible                                       |
+| MiniLibC              | Recode some C functions in ASM.                   | [Github](https://github.com/Encorpluptit/ASM_minilibc_2019)           | ASM (NASM) / Criterion / Github Action                    | Optimised.                                                        |
+| 204Ducks              | Apply Proba Density Equation and Standard Dev.    | [Github](https://github.com/Encorpluptit/204ducks_2019)               | Python (Pytest) / Go / Github Action                      |                                                                   |
+| 209Poll               | Find confidence intervals.                        | [Github](https://github.com/Encorpluptit/209poll_2019)                | Python (Pytest) / Go / Some Haskell / Github Action       |                                                                   |
 
 ### Personal
 | Project               | Description                                       | Link                                                                  | Languages / Technologies used                             | Remark                                                            |
