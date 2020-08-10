@@ -1,41 +1,39 @@
 # WIP
 
 ### Bonjour / Hi there
-    + [Bonjour / Hi there](#bonjour---hi-there)
-- [Français](#French)
+
+- [French](#french)
   * [[TLDR](#tldr-fr)](#-tldr---tldr-fr-)
-  * [Présentation](#pr-sentation)
+  * [Presentation](#presentation)
     + [Mon parcours](#mon-parcours)
     + [Qui suis-je.](#qui-suis-je)
       - [La personne](#la-personne)
       - [Mes valeurs](#mes-valeurs)
-      - [le Développeur](#le-developpeur)
-      - [Centres d'intérêts](#centres-d-int-r-ts)
+      - [le Developpeur](#le-developpeur)
+      - [Centres d'interets](#centres-d-interets)
   * [Mes accomplissements](#mes-accomplissements)
-    + [Mes expériences professionelles](#mes-exp-riences-professionelles)
+    + [Mes experiences professionnelles](#mes-experiences-professionnelles)
     + [Astek](#astek)
-      - [Astek, qu'est-ce que c'est ?](#astek--qu-est-ce-que-c-est--)
-      - [Mes réalisations en tant qu'Astek](#mes-r-alisations-en-tant-qu-astek)
+      - [Presentation du role d Astek](#presentation-du-role-d-astek)
+      - [Mes realisations en tant qu Astek](#mes-realisations-en-tant-qu-astek)
     + [Poc](#poc)
-      - [Poc, qu'est-ce que c'est ?](#poc--qu-est-ce-que-c-est--)
-      - [Mes réalisations au sein de POC](#mes-r-alisations-au-sein-de-poc)
-    + [Compétences maîtrisées](#comp-tences-ma-tris-es)
+      - [Presentation de Poc](#presentation-de-poc)
+      - [Mes realisations au sein de POC](#mes-realisations-au-sein-de-poc)
+    + [Competences maitrisees](#competences-maitrisees)
   * [TLDR-Fr](#tldr-fr)
 - [English](#english)
   * [Who am I](#who-am-i)
 - [Contact](#contact)
 - [Portfolio Github](#portfolio-github)
-  * [1e Année - 1rst Year](#1e-ann-e---1rst-year)
+  * [1rst Year](#1rst-year)
     + [Epitech](#epitech)
     + [Personal](#personal)
-  * [2e Année - 2nd Year](#2e-ann-e---2nd-year)
+  * [2nd Year](#2nd-year)
     + [Epitech](#epitech-1)
     + [Personal](#personal-1)
-  * [3e Année - 1rst Year](#3e-ann-e---1rst-year)
+  * [3rd Year](#3rd-year)
     + [Epitech](#epitech-2)
     + [Personal](#personal-2)
-
-
 ---
 
 # French
@@ -43,7 +41,7 @@
 ## [TLDR](#tldr-fr)
 
 
-## Présentation
+## Presentation
 
 ### Mon parcours
 
@@ -81,7 +79,7 @@
   J'ai souvent été aidé par différentes personnes tout au long de mon cursus, et je suis toujours prêt à renvoyer l'ascenseur.
   
 
-#### le Développeur
+#### le Developpeur
 
  * Sans chercher la sur-optimisation, j'ai toujours essayé d'aller chercher au fond des notions pour que mon code soit le plus propre et optimisé possible.
 
@@ -93,18 +91,18 @@
  * Je suis très flexible, capable de travailler sur plusieurs projets en parallèles, avec plusieurs technologies différentes.
  
 
-#### Centres d'intérêts
+#### Centres d'interets
 
 ---
 ## Mes accomplissements
 
-### Mes expériences professionelles
+### Mes experiences professionnelles
 
 ### Astek
 
 Depuis Mars 2020, Je suis Assistant Technique auprès des étudiants de 1ère et 2e année.
 
-#### Astek, qu'est-ce que c'est ?
+#### Presentation du role d Astek
 
 > À EPITECH, Les Asteks ont pour rôle d'aider les étudiants des années suivantes dans leurs projets et leur scolarité.
 >
@@ -112,7 +110,7 @@ Depuis Mars 2020, Je suis Assistant Technique auprès des étudiants de 1ère et
 >
 > Tenants un rôle essentiel au sein de l'école, les Asteks occupent le poste d'éducateur pédagogique.
 
-#### Mes réalisations en tant qu'Astek
+#### Mes realisations en tant qu Astek
 
  * Présentation de technologies / langages / culture info lors de "Talk" (présentation de 1 heure) devant ma promotion ou les années précédentes.
  
@@ -123,7 +121,7 @@ Depuis Mars 2020, Je suis Assistant Technique auprès des étudiants de 1ère et
 
 Depuis Mars 2020, je suis membre résident de POC.
 
-#### Poc, qu'est-ce que c'est ?
+#### Presentation de Poc
 
 > Poc (Proof of Concept), une association étudiante basée sur l'innovation et l'open source.
 >
@@ -133,7 +131,7 @@ Depuis Mars 2020, je suis membre résident de POC.
 >
 > L'association est reconnue par de nombreuses entreprises comme Sony ou Bouygues qui font régulièrement appel à cette dernière pour réaliser divers projets.
 
-#### Mes réalisations au sein de POC
+#### Mes realisations au sein de POC
 
  * Projet [CodeBase manager](https://github.com/PoCFrance/CodeBaseManager) un outil CLI en Go permettant la gestion de projet.
     * Gérer sa codebase.
@@ -150,7 +148,7 @@ Depuis Mars 2020, je suis membre résident de POC.
  * Organisation d'une piscine software d'une semaine.
 
 
-### Compétences maîtrisées
+### Competences maitrisees
 | Langages                              | DevOps                                | Web                                   | Others                                |
 |:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
 | C                                     | Agile methods                         | JS/TS: Express                        | Toolchain(WIP)                        |
@@ -164,6 +162,8 @@ Depuis Mars 2020, je suis membre résident de POC.
 
 ## TLDR-Fr
 
+
+# English
 
 <!-- TODO:
 # English
@@ -185,7 +185,7 @@ Phone: +33 6 22 43 30 11
 
 # Portfolio Github
 
-## 1e Année - 1rst Year
+## 1rst Year
 
 ### Epitech
 | Project               | Description                                       | Link                                                                  | Languages / Technologies used                             | Remark                                                            |
@@ -203,7 +203,7 @@ Phone: +33 6 22 43 30 11
 | Easley                | Web app MVP for fintech start-up                  | [Github](https://github.com/Encorpluptit/Easley)                      | Python / Django / PostGreSQL / CSS / Heroku               | 2 months Internship / Firsts Steps With all these technologies    |
 
 
-## 2e Année - 2nd Year
+## 2nd Year
 
 ### Epitech
 | Project               | Description                                       | Link                                                                  | Languages / Technologies used                             | Remark                                                            |
@@ -222,7 +222,7 @@ Phone: +33 6 22 43 30 11
 | CodebaseManager       | Manage your Project Codebase                      | [Github](https://github.com/PoCFrance/CodeBaseManager)                | Go / Docker / Docker-Compose / Api / Concurrency          |                                                                   |
 
 
-## 3e Année - 1rst Year
+## 3rd Year
 ### Epitech
 ### Personal
 
