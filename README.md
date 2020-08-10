@@ -1,11 +1,44 @@
 # WIP
 
 ### Bonjour / Hi there
+    + [Bonjour / Hi there](#bonjour---hi-there)
+- [Français](#French)
+  * [[TLDR](#tldr-fr)](#-tldr---tldr-fr-)
+  * [Présentation](#pr-sentation)
+    + [Mon parcours](#mon-parcours)
+    + [Qui suis-je.](#qui-suis-je)
+      - [La personne](#la-personne)
+      - [Mes valeurs](#mes-valeurs)
+      - [le Développeur](#le-developpeur)
+      - [Centres d'intérêts](#centres-d-int-r-ts)
+  * [Mes accomplissements](#mes-accomplissements)
+    + [Mes expériences professionelles](#mes-exp-riences-professionelles)
+    + [Astek](#astek)
+      - [Astek, qu'est-ce que c'est ?](#astek--qu-est-ce-que-c-est--)
+      - [Mes réalisations en tant qu'Astek](#mes-r-alisations-en-tant-qu-astek)
+    + [Poc](#poc)
+      - [Poc, qu'est-ce que c'est ?](#poc--qu-est-ce-que-c-est--)
+      - [Mes réalisations au sein de POC](#mes-r-alisations-au-sein-de-poc)
+    + [Compétences maîtrisées](#comp-tences-ma-tris-es)
+  * [TLDR-Fr](#tldr-fr)
+- [English](#english)
+  * [Who am I](#who-am-i)
+- [Contact](#contact)
+- [Portfolio Github](#portfolio-github)
+  * [1e Année - 1rst Year](#1e-ann-e---1rst-year)
+    + [Epitech](#epitech)
+    + [Personal](#personal)
+  * [2e Année - 2nd Year](#2e-ann-e---2nd-year)
+    + [Epitech](#epitech-1)
+    + [Personal](#personal-1)
+  * [3e Année - 1rst Year](#3e-ann-e---1rst-year)
+    + [Epitech](#epitech-2)
+    + [Personal](#personal-2)
 
 
 ---
 
-# Français
+# French
 
 ## [TLDR](#tldr-fr)
 
@@ -167,7 +200,7 @@ Phone: +33 6 22 43 30 11
 | Project               | Description                                       | Link                                                                  | Languages / Technologies used                             | Remark                                                            |
 |:---------------------:|:-------------------------------------------------:|:---------------------------------------------------------------------:|:---------------------------------------------------------:|:-----------------------------------------------------------------:|
 | Go_Minishell          | A simple shell in go                              | [Github](https://github.com/Encorpluptit/Minishell_1_Go)              | C / Criterion                                             | First steps in Go                                                 |
-| Easley                | Web app MVP for fintech start-up                  | [Github](https://github.com/Encorpluptit/Easley)                      | Python / Django / PostGreSQL / CSS / Heroku               | 2 months Internship / Firsts Steps With all these technonlogies   |
+| Easley                | Web app MVP for fintech start-up                  | [Github](https://github.com/Encorpluptit/Easley)                      | Python / Django / PostGreSQL / CSS / Heroku               | 2 months Internship / Firsts Steps With all these technologies    |
 
 
 ## 2e Année - 2nd Year
@@ -177,13 +210,16 @@ Phone: +33 6 22 43 30 11
 |:---------------------:|:-------------------------------------------------:|:---------------------------------------------------------------------:|:---------------------------------------------------------:|:-----------------------------------------------------------------:|
 | Malloc                | Recode malloc C function.                         | [Github](https://github.com/Encorpluptit/PSU_2019_malloc)             | C                                                         | Buddy-alloc like algorithm.                                       |
 | MiniLibC              | Recode some C functions in ASM.                   | [Github](https://github.com/Encorpluptit/ASM_minilibc_2019)           | ASM (NASM) / Criterion / Github Action                    | Optimised.                                                        |
-| 204Ducks              | Apply Proba Density Equation and Standard Dev.    | [Github](https://github.com/Encorpluptit/204ducks_2019)               | Python (Pytest) / Go / Github Action                      |                                                                   |
-| 209Poll               | Find confidence intervals.                        | [Github](https://github.com/Encorpluptit/209poll_2019)                | Python (Pytest) / Go / Some Haskell / Github Action       |                                                                   |
+| 204Ducks              | Apply Proba Density Equation and Standard Dev.    | [Github](https://github.com/Encorpluptit/204ducks_2019)               | Python (Pytest) / Go / Github Action                      | Go Bonuses                                                        |
+| 209Poll               | Find confidence intervals.                        | [Github](https://github.com/Encorpluptit/209poll_2019)                | Python (Pytest) / Go / Some Haskell / Github Action       | Go Bonuses                                                        |
+| MyFTP                 | Code a FTP server.                                | [Github](https://github.com/Encorpluptit/NWP_myftp_2019)              | C / Socket / Python Tests                                 |                                                                   |
+| ImageCompressor       | Image compression Algorithm in Haskell.           | [Github](https://github.com/Encorpluptit/FUN_imageCompressor_2019)    | Haskell / Stack                                           |                                                                   |
 
 ### Personal
 | Project               | Description                                       | Link                                                                  | Languages / Technologies used                             | Remark                                                            |
 |:---------------------:|:-------------------------------------------------:|:---------------------------------------------------------------------:|:---------------------------------------------------------:|:-----------------------------------------------------------------:|
 | Software              | Group project for POC software Pool               | [Github](https://github.com/Encorpluptit/POC_SoftwarePool2020_Project)| JS / Express / Postman /Sqlite3                           | First API in JS with firsts Github Actions (worked on back and CI)|
+| CodebaseManager       | Manage your Project Codebase                      | [Github](https://github.com/PoCFrance/CodeBaseManager)                | Go / Docker / Docker-Compose / Api / Concurrency          |                                                                   |
 
 
 ## 3e Année - 1rst Year
