@@ -7,37 +7,11 @@
 ### Bonjour / Hi there
 
 - [French](#french)
-  * [[TLDR](#tldr-fr)](#-tldr---tldr-fr-)
   * [Presentation](#presentation)
-    + [Mon parcours](#mon-parcours)
-    + [Qui suis-je.](#qui-suis-je)
-      - [La personne](#la-personne)
-      - [Mes valeurs](#mes-valeurs)
-      - [le Developpeur](#le-developpeur)
-      - [Centres d'interets](#centres-d-interets)
   * [Mes accomplissements](#mes-accomplissements)
-    + [Mes experiences professionnelles](#mes-experiences-professionnelles)
-    + [Astek](#astek)
-      - [Presentation du role d Astek](#presentation-du-role-d-astek)
-      - [Mes realisations en tant qu Astek](#mes-realisations-en-tant-qu-astek)
-    + [Poc](#poc)
-      - [Presentation de Poc](#presentation-de-poc)
-      - [Mes realisations au sein de POC](#mes-realisations-au-sein-de-poc)
-    + [Competences maitrisees](#competences-maitrisees)
-  * [TLDR-Fr](#tldr-fr)
-- [English](#english)
-  * [Who am I](#who-am-i)
+  * [Competences maitrisées](#competences-maitrisees)
 - [Contact](#contact)
 - [Portfolio Github](#portfolio-github)
-  * [1rst Year](#1rst-year)
-    + [Epitech](#epitech)
-    + [Personal](#personal)
-  * [2nd Year](#2nd-year)
-    + [Epitech](#epitech-1)
-    + [Personal](#personal-1)
-  * [3rd Year](#3rd-year)
-    + [Epitech](#epitech-2)
-    + [Personal](#personal-2)
 ---
 
 # French
@@ -152,14 +126,14 @@ Depuis Mars 2020, je suis membre résident de POC.
  * Organisation d'une piscine software d'une semaine.
 
 
-### Competences maitrisees
+## Competences maitrisees
 | Langages                              | DevOps                                | Web                                   | Others                                |
 |:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
 | C                                     | Agile methods                         | JS/TS: Express                        | Toolchain(WIP)                        |
-| C++                                   | Docker / Docker-Compose               | Python: / Flask / Django              |                                       |
+| C++                                   | Docker / Docker-Compose               | Python: Flask / Django                |                                       |
 | Go                                    | Kubernetes(WIP) / Ansible(WIP)        | Go: Mux(WIP) / Gin(WIP)               |                                       |
 | Haskell                               | CI / CD                               | Heroku / AWS(WIP) / Azure(WIP)        |                                       |
-| JS / TS                               | Github Action / GitLab                |                                       |                                       |
+| JS / TS                               | Github Action / GitLab                | Database       |                                       |
 | Rust(WIP)                             |                                       |                                       |                                       |
 
 
@@ -167,7 +141,7 @@ Depuis Mars 2020, je suis membre résident de POC.
 ## TLDR-Fr
 
 
-# English
+[comment]: <> (# English)
 
 <!-- TODO:
 # English
@@ -189,9 +163,9 @@ Phone: +33 6 22 43 30 11
 
 # Portfolio Github
 
-## 1rst Year
+## 2019
 
-### Epitech
+### Epitech 1st Year
 | Project               | Description                                       | Link                                                                  | Languages / Technologies used                             | Remark                                                            |
 |:---------------------:|:-------------------------------------------------:|:---------------------------------------------------------------------:|:---------------------------------------------------------:|:-----------------------------------------------------------------:|
 | BSQ                   | Find the biggest square !                         | [Github](https://github.com/Encorpluptit/CPE_BSQ_2018)                | C / Criterion                                             | No lib C / fastest possible                                       |
@@ -206,10 +180,9 @@ Phone: +33 6 22 43 30 11
 | Go_Minishell          | A simple shell in go                              | [Github](https://github.com/Encorpluptit/Minishell_1_Go)              | C / Criterion                                             | First steps in Go                                                 |
 | Easley                | Web app MVP for fintech start-up                  | [Github](https://github.com/Encorpluptit/Easley)                      | Python / Django / PostGreSQL / CSS / Heroku               | 2 months Internship / Firsts Steps With all these technologies    |
 
+## 2020
 
-## 2nd Year
-
-### Epitech
+### Epitech 2nd Year
 | Project               | Description                                       | Link                                                                  | Languages / Technologies used                             | Remark                                                            |
 |:---------------------:|:-------------------------------------------------:|:---------------------------------------------------------------------:|:---------------------------------------------------------:|:-----------------------------------------------------------------:|
 | Malloc                | Recode malloc C function.                         | [Github](https://github.com/Encorpluptit/PSU_2019_malloc)             | C                                                         | Buddy-alloc like algorithm.                                       |
@@ -222,7 +195,7 @@ Phone: +33 6 22 43 30 11
 ### Personal
 | Project               | Description                                       | Link                                                                  | Languages / Technologies used                             | Remark                                                            |
 |:---------------------:|:-------------------------------------------------:|:---------------------------------------------------------------------:|:---------------------------------------------------------:|:-----------------------------------------------------------------:|
-| Software              | Group project for POC software Pool               | [Github](https://github.com/Encorpluptit/POC_SoftwarePool2020_Project)| JS / Express / Postman /Sqlite3                           | First API in JS with firsts Github Actions (worked on back and CI)|
+| Software              | Group project for POC software Pool               | [Github](https://github.com/Encorpluptit/POC_SoftwarePool2020_Project)| JS-TS-Go / Database (Postgres, ...) / Postman /React      | First API in JS with firsts Github Actions (worked on back and CI)|
 | CodebaseManager       | Manage your Project Codebase                      | [Github](https://github.com/PoCFrance/CodeBaseManager)                | Go / Docker / Docker-Compose / Api / Concurrency          |                                                                   |
 
 
@@ -232,7 +205,6 @@ Phone: +33 6 22 43 30 11
 
 
 
-<!-- https://ecotrust-canada.github.io/markdown-toc/ -->
 
 <!--
 **Encorpluptit/Encorpluptit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
