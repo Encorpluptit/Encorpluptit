@@ -7,19 +7,19 @@
 ### Bonjour / Hi there
 
 - [French](#french)
-  * [Presentation](#presentation)
+  * [Presentation](#prsentation)
   * [Mes accomplissements](#mes-accomplissements)
-  * [Competences maitrisées](#competences-maitrisees)
+  * [Compétences maitrisées](#comptences-maitrises)
 - [Contact](#contact)
 - [Portfolio Github](#portfolio-github)
 ---
 
 # French
 
-## [TLDR](#tldr-fr)
+[comment]: <> (## [TLDR]&#40;#tldr-fr&#41;)
 
 
-## Presentation
+## Présentation
 
 ### Mon parcours
 
@@ -80,7 +80,7 @@
 
 Depuis Mars 2020, Je suis Assistant Technique auprès des étudiants de 1ère et 2e année.
 
-#### Presentation du role d Astek
+#### Presentation du role d'Astek
 
 > À EPITECH, Les Asteks ont pour rôle d'aider les étudiants des années suivantes dans leurs projets et leur scolarité.
 >
@@ -126,7 +126,7 @@ Depuis Mars 2020, je suis membre résident de POC.
  * Organisation d'une piscine software d'une semaine.
 
 
-## Competences maitrisees
+## Compétences maitrisées
 | Langages                              | DevOps                                | Web                                   | Others                                |
 |:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
 | C                                     | Agile methods                         | JS/TS: Express                        | Toolchain(WIP)                        |
@@ -192,11 +192,21 @@ Phone: +33 6 22 43 30 11
 | MyFTP                 | Code a FTP server.                                | [Github](https://github.com/Encorpluptit/NWP_myftp_2019)              | C / Socket / Python Tests                                 |                                                                   |
 | ImageCompressor       | Image compression Algorithm in Haskell.           | [Github](https://github.com/Encorpluptit/FUN_imageCompressor_2019)    | Haskell / Stack                                           |                                                                   |
 
+### Epitech 3rd Year
+| Project               | Description                                           | Link                                                                  | Languages / Stack used                                    | Remark                                                                            |
+|:---------------------:|:-----------------------------------------------------:|:---------------------------------------------------------------------:|:---------------------------------------------------------:|:---------------------------------------------------------------------------------:|
+| EvalExpr              | Simple Expression parsing and evaluation (5*(-6)/2...)| [Github](https://github.com/Encorpluptit/HaskellEvalExpr)             | Haskell                                                   | ReadP Re-Implementation, Simple AST, Applicative/Alternative Functor              |
+| HAL                   | Haskell Lisp Interpreter                              | [Github](https://github.com/Encorpluptit/HaskellLispInterpreter)      | Haskell                                                   | Complex AST, Monadic Errors, Env management, Funcs calls, lambdas, closures,...   |
+| Babel                 | VOIP Server Client (User, Friend, Voice and messages) | [Github](https://github.com/Encorpluptit/CPP-VOIP_Client_Server)      | C++ / Boost Asio / Qt / Opus / Port Audio                 | Encapsulation of all libs used, Common interfaces between Server/ Client          |
+| Epicture              | Flutter App with Api Imgur call                       | [Github](https://github.com/Encorpluptit/FlutterApp-ImgurApi)         | Flutter                                                   | First Mobile App                                                                  |
+| Dashboard             | Dashboard based on [netvibe](https://www.netvibes.com)| [Github](https://github.com/Encorpluptit/GoReactJs-Dashboard)         | React JS / Go / Docker-Compose                            | First Real Experience with react JS and OAuth                                     |
+
 ### Personal
 | Project               | Description                                       | Link                                                                  | Languages / Technologies used                             | Remark                                                            |
 |:---------------------:|:-------------------------------------------------:|:---------------------------------------------------------------------:|:---------------------------------------------------------:|:-----------------------------------------------------------------:|
 | Software              | Group project for POC software Pool               | [Github](https://github.com/Encorpluptit/POC_SoftwarePool2020_Project)| JS-TS-Go / Database (Postgres, ...) / Postman /React      | First API in JS with firsts Github Actions (worked on back and CI)|
 | CodebaseManager       | Manage your Project Codebase                      | [Github](https://github.com/PoCFrance/CodeBaseManager)                | Go / Docker / Docker-Compose / Api / Concurrency          |                                                                   |
+| MySpace               | Small Go API                                      | [Github](https://github.com/Encorpluptit/MySpace)                     | Go / Docker / Docker-Compose / Api / Concurrency               | Unfinished                                                        |
 
 
 ## 3rd Year
