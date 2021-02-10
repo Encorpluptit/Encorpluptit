@@ -25,7 +25,7 @@
 
 * Je m'apelle Bernard Damien, j'ai 27 ans et je suis étudiant en 3e année à Epitech Paris.
 
-* J'ai étudié les matières scientifiques en IUT, Faculté et école d'ingénieur avant de comprendre que ce l'enseignement dispensé (académique) ne me correspondait pas.
+* J'ai étudié les matières scientifiques en IUT, Faculté et école d'ingénieur avant de comprendre que l'enseignement académique dispensé ne me correspondait pas.
 
 * J'ai ensuite travaillé dans le milieu de la restauration pendant 3 ans pour réfléchir sur mon orientation et avoir une expérience professionnelle.
 
@@ -88,7 +88,7 @@ Depuis Mars 2020, Je suis Assistant Technique auprès des étudiants de 1ère et
 >
 > Tenants un rôle essentiel au sein de l'école, les Asteks occupent le poste d'éducateur pédagogique.
 
-#### Mes realisations en tant qu Astek
+#### Mes realisations en tant qu'Astek
 
  * Présentation de technologies / langages / culture info lors de "Talk" (présentation de 1 heure) devant ma promotion ou les années précédentes.
  
@@ -127,14 +127,15 @@ Depuis Mars 2020, je suis membre résident de POC.
 
 
 ## Compétences maitrisées
-| Langages                              | DevOps                                | Web                                   | Others                                |
+| Langages                              | DevOps                                | Web/Mobile                            | Others                                |
 |:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
-| C                                     | Agile methods                         | JS/TS: Express                        | Toolchain(WIP)                        |
-| C++                                   | Docker / Docker-Compose               | Python: Flask / Django                |                                       |
-| Go                                    | Kubernetes(WIP) / Ansible(WIP)        | Go: Mux(WIP) / Gin(WIP)               |                                       |
+| C                                     | Agile methods                         | JS/TS: Express                        | P2P protocols                         |
+| C++                                   | Docker / Docker-Compose               | Python: Flask / Django                | IPFS                                  |
+| Go                                    | Kubernetes(WIP) / Ansible(WIP)        | Go: Mux / Gin                         |                                       |
 | Haskell                               | CI / CD                               | Heroku / AWS(WIP) / Azure(WIP)        |                                       |
-| JS / TS                               | Github Action / GitLab                | Database       |                                       |
-| Rust(WIP)                             |                                       |                                       |                                       |
+| JS / TS                               | Github Action / GitLab                | Database                              |                                       |
+| Rust(WIP)                             | Jenkins                               | Flutter                               |                                       |
+|                                       | Jenkins                               | React / ReactJS                       |                                       |
 
 
 
@@ -208,10 +209,6 @@ Phone: +33 6 22 43 30 11
 | CodebaseManager       | Manage your Project Codebase                      | [Github](https://github.com/PoCFrance/CodeBaseManager)                | Go / Docker / Docker-Compose / Api / Concurrency          |                                                                   |
 | MySpace               | Small Go API                                      | [Github](https://github.com/Encorpluptit/MySpace)                     | Go / Docker / Docker-Compose / Api / Concurrency               | Unfinished                                                        |
 
-
-## 3rd Year
-### Epitech
-### Personal
 
 
 
